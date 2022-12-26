@@ -9,6 +9,11 @@ input[type=text]{
     border: 0;
     outline: none;
     background-color: inherit;
-    color: white;
+    color: rgb(250, 250, 250);
 }
 
+nav{
+    display: flex;
+    flex-direction: column;
+    height: 3rem;
+}
